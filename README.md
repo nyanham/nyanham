@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rafaeljkey@gmail.com**
 
-- ⚡ Fun fact :- Besides being a programmer, i am a music, illustrator and editor!
+- ⚡ Fun fact :- Besides being a programmer, i am a musician, illustrator and editor!
 
 <br>
 
