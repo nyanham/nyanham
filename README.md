@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael Jyo Kondo</h1>
-<h3 align="center">Student at UFSCAR, Sorocaba🌟.</h3>
+<h3 align="center">Working at Bridgestone, Tokyo🌟.</h3>
 
 <br>
 
