@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/nyanham.png" width="120" alt="avatar" />
+
 # Rafael Kondo 👋
 
 **Python Engineer**  
@@ -8,12 +10,28 @@ Frontend · Backend · Data · Automation
 I build clean, reliable systems with Python  
 and automate workflows to make work simpler.
 
+<br />
+
+<!-- Status & Badges -->
+<img alt="status" src="https://img.shields.io/badge/status-actively%20coding-brightgreen" />
+<img alt="python" src="https://img.shields.io/badge/python-%3E%3D3.8-blue" />
+<img alt="poetry" src="https://img.shields.io/badge/Poetry-managed-7B3FBD" />
+<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=nyanham.nyanham" />
+
 </div>
 
 ---
 
+## 🔭 Current status
+- Working on: internal automation tools and data pipelines.
+- Focus: improving reliability and test coverage across services.
+- Activity: [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nhanham&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+---
+
 ## About Me
-- Backend & API development with Python
 - Data processing and analysis
 - Desktop tools & internal automation
 - RPA for business efficiency
@@ -55,7 +73,6 @@ and automate workflows to make work simpler.
 
 ---
 
-
 ## ✨ Development Values
 - Clean, readable code
 - Automation over repetition
@@ -65,7 +82,7 @@ and automate workflows to make work simpler.
 ---
 
 ## 📫 Contact
-- GitHub: **nhanham**
+- GitHub: **nyanham**
 - Email: **rafaeljkey@gmail.com**
 
 ---
