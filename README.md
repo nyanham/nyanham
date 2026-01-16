@@ -1,71 +1,77 @@
-# Hi, I'm Rafael Kondo 👋
+<div align="center">
 
-Python Engineer focused on **backend development**, **data processing**, and **workflow automation**.  
-I enjoy building clean, reliable systems and improving productivity through code.
+# Rafael Kondo 👋
+
+**Python Engineer**  
+Frontend · Backend · Data · Automation
+
+I build clean, reliable systems with Python  
+and automate workflows to make work simpler.
+
+</div>
 
 ---
 
-## 🧠 What I Do
+## About Me
 - Backend & API development with Python
 - Data processing and analysis
 - Desktop tools & internal automation
-- RPA and office workflow automation
+- RPA for business efficiency
 - Cloud-based solutions (AWS)
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-- Python (main)
-- C / C# (basic)
+**Languages**
+- Python · C · C#  
 
-### Python & Ecosystem
-- Poetry, Pydantic, Pytest
-- Pandas, Polars, NumPy
-- Fast, maintainable, testable code
+**Python Ecosystem**
+- Poetry · Pydantic · Pytest  
 
-### UI / Desktop
+**UI / Desktop**
 - PySide (Qt for Python)
 
-### Data & Visualization
-- Pandas, Polars
-- Matplotlib, Power BI
+**Data & Visualization**
+- Pandas · Polars  
+- Matplotlib · Power BI  
 
-### Office Automation
-- openpyxl (Excel)
+**Office Automation**
+- openpyxl (Excel)  
 - python-pptx (PowerPoint)
 
-### Image Processing
-- Pillow (PIL)
+**Image Processing**
+- Pillow (PIL)  
 - OpenCV (cv2)
 
-### RPA / Automation
-- Selenium
-- PyAutoGUI
+**RPA / Automation**
+- Selenium  
+- PyAutoGUI  
 
-### Cloud
-- AWS (EC2, S3)
-
-### Tools
-- Git, GitHub / GitLab
-- VS Code
-- Windows / Linux
+**Cloud & Tools**
+- AWS (EC2 · S3)  
+- Git · GitHub / GitLab
+- VS Code · Windows · Linux  
 
 ---
 
+
 ## ✨ Development Values
-- Clean & readable code
+- Clean, readable code
 - Automation over repetition
+- Maintainability first
 - Continuous learning
-- Practical problem-solving
 
 ---
 
 ## 📫 Contact
-- GitHub: **@your-github-username**
-- Email: **your.email@example.com**
+- GitHub: **nhanham**
+- Email: **rafaeljkey@gmail.com**
 
 ---
 
-⭐️ *Always learning, always improving.*
+<div align="center">
+
+⭐️ *Always learning. Always improving.*
+
+</div>
