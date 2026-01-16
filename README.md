@@ -25,7 +25,7 @@ and automate workflows to make work simpler.
 ## 🔭 Current status
 - Working on: internal automation tools and data pipelines.
 - Focus: improving reliability and test coverage across services.
-- Activity: [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nhanham&theme=dark&hide_border=true)](https://git.io/streak-stats)
+- Activity: [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nhanham&theme=dark&hide_border=true)]
 
 ---
 
