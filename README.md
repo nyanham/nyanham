@@ -2,7 +2,7 @@
 
 <img src="https://github.com/nyanham.png" width="120" alt="avatar" />
 
-# Rafael Kondo 👋
+# Rafael Jyo Kondo 👋
 
 **Python Engineer**  
 Frontend · Backend · Data · Automation
