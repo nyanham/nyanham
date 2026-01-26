@@ -25,7 +25,8 @@ and automate workflows to make work simpler.
 ## 🔭 Current status
 - Working on: internal automation tools and data pipelines.
 - Focus: improving reliability and test coverage across services.
-- Activity:<picture>
+- Activity:
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=nhanham&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
