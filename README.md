@@ -25,7 +25,17 @@ and automate workflows to make work simpler.
 ## 🔭 Current status
 - Working on: internal automation tools and data pipelines.
 - Focus: improving reliability and test coverage across services.
-- Activity: [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nhanham&theme=dark&hide_border=true)]
+- Activity:<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?usernamenhanham&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=nhanham&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nhanham&show_icons=true" />
+</picture>
 
 ---
 
