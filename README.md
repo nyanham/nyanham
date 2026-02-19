@@ -95,6 +95,7 @@ and automate workflows to make work simpler.
 ## 📫 Contact
 - GitHub: **nyanham**
 - Email: **rafaeljkey@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/rafael-jyo-kondo/**
 
 ---
 
