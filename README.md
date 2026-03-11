@@ -23,21 +23,12 @@ and automate workflows to make work simpler.
 ---
 
 ## 🔭 Current status
-- Working on: internal automation tools and data pipelines.
+- Working on: Fullstack Application.
 - Focus: improving reliability and test coverage across services.
-- Activity:
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=nhanham&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=nhanham&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=nhanham&show_icons=true" />
-</picture>
-
+- 📊 GitHub Stats:<br/>
+![](https://github-readme-stats.vercel.app/api?username=nyanham&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nyanham&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nyanham&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ---
