@@ -1,97 +1,140 @@
-<div align="center">
+# Rafael Jyo Kondo
 
-<img src="https://github.com/nyanham.png" width="120" alt="avatar" />
+### Data Engineer | Python | SQL | AWS
 
-# Rafael Jyo Kondo 👋
+I am a Data Engineer focused on building reliable, scalable, and data-driven solutions.
 
-**Python Engineer**  
-Frontend · Backend · Data · Automation
+My background combines **Data Engineering, Software Engineering, Machine Learning, and Automation**, giving me an end-to-end perspective on data systems, from ingestion and processing to cloud infrastructure and production applications.
 
-I build clean, reliable systems with Python  
-and automate workflows to make work simpler.
+I started my career working on **machine learning recommendation systems** for large enterprise clients, developing data pipelines, processing workflows, and model integrations using Python and AWS. Later, I expanded my experience into software engineering and automation, building solutions that connected data, legacy systems, and business processes.
 
-<br />
-
-<!-- Status & Badges -->
-<img alt="status" src="https://img.shields.io/badge/status-actively%20coding-brightgreen" />
-<img alt="python" src="https://img.shields.io/badge/python-%3E%3D3.8-blue" />
-<img alt="poetry" src="https://img.shields.io/badge/Poetry-managed-7B3FBD" />
-<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=nyanham.nyanham" />
-
-</div>
+I enjoy solving complex problems, improving existing systems, and turning data workflows into reliable software.
 
 ---
 
-## 🔭 Current status
-- Working on: Fullstack Application.
-- Focus: improving reliability and test coverage across services.
-- 📊 GitHub Stats:<br/>
-![](https://github-readme-stats.vercel.app/api?username=nyanham&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nyanham&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nyanham&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
----
+## 🚀 What I Work With
+
+### Data Engineering
+
+* Data Pipelines
+* ETL / ELT
+* Data Ingestion & Transformation
+* Data Processing
+* Data Integration
+* Data Quality
+* Data Modeling
+
+### Programming
+
+* Python
+* SQL
+* TypeScript
+
+### Cloud & Infrastructure
+
+* AWS
+
+  * S3
+  * EC2
+  * Lambda
+* Linux
+
+### Databases
+
+* PostgreSQL
+
+### Software Engineering
+
+* Git
+* CI/CD
+* REST APIs
+* Unit Testing
+* Integration Testing
+* Error Handling
+
+### Data & Machine Learning
+
+* Pandas
+* Polars
+* Machine Learning
+* Recommendation Systems
+
+### Automation
+
+* PowerShell
+* VBA
+* RPA
+* Web Automation
 
 ---
 
-## About Me
-- Data processing and analysis
-- Desktop tools & internal automation
-- RPA for business efficiency
-- Cloud-based solutions (AWS)
+## 🛠️ Featured Experience
+
+### Recommendation Systems
+
+Worked on recommendation platforms for enterprise clients, contributing to data ingestion, processing pipelines, machine learning model integration, and cloud-based workflows.
+
+One of the projects contributed to an approximately **17% increase in client sales** through machine learning-based recommendations.
+
+### Data & Process Automation
+
+Developed automation solutions integrating spreadsheets, legacy systems, and web applications.
+
+One of the solutions reduced a manual process from approximately **10 hours to 1 hour**, representing around **90% reduction in manual effort**.
 
 ---
 
-## 🛠 Tech Stack
+## 📊 My Engineering Approach
 
-**Languages**
-- Python · C · C#  
+I believe good data engineering is more than moving data from one system to another.
 
-**Python Ecosystem**
-- Poetry · Pydantic · Pytest  
+I focus on building solutions that are:
 
-**UI / Desktop**
-- PySide (Qt for Python)
+* **Reliable**: predictable behavior, validation, and automated testing.
+* **Maintainable**: clear architecture and readable code.
+* **Scalable**: designed to handle growing data and business requirements.
+* **Observable**: failures and unexpected behavior should be easy to identify.
+* **Business-oriented**: technical solutions should ultimately solve real problems.
 
-**Data & Visualization**
-- Pandas · Polars  
-- Matplotlib · Power BI  
-
-**Office Automation**
-- openpyxl (Excel)  
-- python-pptx (PowerPoint)
-
-**Image Processing**
-- Pillow (PIL)  
-- OpenCV (cv2)
-
-**RPA / Automation**
-- Selenium  
-- PyAutoGUI  
-
-**Cloud & Tools**
-- AWS (EC2 · S3)  
-- Git · GitHub / GitLab
-- VS Code · Windows · Linux  
+I also value the intersection between **Data Engineering and Software Engineering**, because robust data platforms require both strong data foundations and solid engineering practices.
 
 ---
 
-## ✨ Development Values
-- Clean, readable code
-- Automation over repetition
-- Maintainability first
-- Continuous learning
+## 📚 Currently Improving
+
+I am continuously expanding my knowledge in:
+
+* Advanced Data Engineering
+* Distributed Data Processing
+* Cloud Architecture
+* Data Pipeline Design
+* Data Quality & Observability
+* Software Architecture
+* Scalable Backend Systems
 
 ---
 
-## 📫 Contact
-- GitHub: **nyanham**
-- Email: **rafaeljkey@gmail.com**
-- LinkedIn: **https://www.linkedin.com/in/rafael-jyo-kondo/**
+## 📂 Projects
+
+I use this profile to document projects related to:
+
+* Data Engineering
+* Python
+* SQL
+* AWS
+* Data Pipelines
+* Machine Learning
+* Backend Development
+* Automation
+
+More projects and technical experiments will be added as I continue building and learning.
 
 ---
 
-<div align="center">
+## 📫 Connect With Me
 
-⭐️ *Always learning. Always improving.*
+* 📧 Email: [rafaeljyokondo.work@gmail.com](mailto:rafaeljyokondo.work@gmail.com)
+* 💻 GitHub: [github.com/nyanham](https://github.com/nyanham)
+* 📍 São Paulo, Brazil
 
-</div>
+---
